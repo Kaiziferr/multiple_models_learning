@@ -1,5 +1,5 @@
 # Multiple Models
-This repository contains different strategies for using multiple models.
+This repository contains different strategies for using multiple models, such as Hard Voting, Soft Voting, Voting for Regression, OneVsRest, OneVsOne... .
 
 ## Voting
 The weighted ensemble approach averages the predictions of several models, adjusting their contribution based on their performance through voting.
