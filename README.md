@@ -12,7 +12,7 @@ The weighted ensemble approach averages the predictions of several models, adjus
 ### Voting for Regression
 - The Voting Regressor in regression averages the continuous values of the model predictions. There is no hard or soft voting like in classification.
 
-## Ensemble Pruning:
+## Ensemble Pruning
 - It is a method that starts by including all possible elements in the ensemble and progressively removes them until no further improvement can be achieved. This elimination can be performed greedily, removing one element at a time only if its removal improves the ensemble’s performance.
 
 ## OneVsRest
